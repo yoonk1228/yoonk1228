@@ -2,7 +2,7 @@
 <br />
 <br />
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5621658.png" display="block" width="318" height="58" margin-left="auto" margin-right="auto" alt="Hello! i'm yunjae" /></a>
-<br /><a href="https://cooltext.com">:seedling: Click & Move To Look Around My PortFolio!</a>
+<br /><a href="https://cooltext.com">:seedling: Click & Move To Look Around My PortFolio! (korean) </a>
 <br />
 <br />
 
