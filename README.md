@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Ace's%20git%20hub&fontSize=70)
 <br />
 <br />
-<a href="https://cooltext.com">Hello! i'm yunjae 🇰🇷</a>
-<br /><a href="https://cooltext.com">:seedling: Click & Move To Look Around My PortFolio! (korean) </a>
+<a href="https://cooltext.com">:seedling: Hello! i'm yunjae 🇰🇷</a>
+<br /><a href="https://cooltext.com">Click & Move To Look Around My PortFolio! (korean) </a>
 <br />
 <br />
 
