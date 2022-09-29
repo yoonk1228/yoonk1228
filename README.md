@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=Ace's%20git%20hub&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Ace's%20git%20hub&fontSize=70)
 
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5621658.png" display="block" width="318" height="58" margin-left="auto" margin-right="auto" alt="Hello! i'm yunjae" /></a>
 <br /><a href="https://cooltext.com">:seedling: Click & Move To Look Around My PortFolio!</a>
