@@ -5,9 +5,9 @@
 <br />
 
   💻 My Stack
-  <img alt="Html" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=벳지내 글자&logoColor=벳지 글자 색"/>
-  <img alt="Html" src ="https://img.shields.io/badge/원하는 아이콘.svg?&style=for-the-badge&logo=벳지내 글자&logoColor=벳지 글자 색"/>
-  <img alt="Html" src ="https://img.shields.io/badge/원하는 아이콘.svg?&style=for-the-badge&logo=벳지내 글자&logoColor=벳지 글자 색"/>
+  <img alt="Html" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+  <img alt="Html" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=black"/>
+  <img alt="Html" src ="https://img.shields.io/badge/WebStorm-000000.svg?&style=for-the-badge&logo=WebStorm 글자&logoColor=black"/>
 
 [![yoonk1228's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonk1228&show_icons=true&theme=highcontrast)](https://github.com/yoonk1228/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=highcontrast)](https://github.com/yoonk1228/github-readme-stats)
