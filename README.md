@@ -6,7 +6,7 @@
 <br />
 <br />
 
-  💻 My Stack
+  💻
   <br />
   <br />
   <img alt="Html" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
