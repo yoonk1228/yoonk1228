@@ -2,7 +2,7 @@
 <br />
 <br />
 <a href="https://cooltext.com"><h3>:seedling: Hello! i'm yunjae </h3></a>
-<br /><a href="[https://cooltext.com](https://yoonk1228.github)">Click & Move To Look Around My PortFolio! (korean) </a>
+<br /><a href="https://yoonk1228.github">Click & Move To Look Around My PortFolio! (korean) </a>
 <br />
 <br />
 
