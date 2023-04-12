@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=Yun's%20git%20hub&fontSize=70)
+<br />
 <a href="https://cooltext.com"><h3> :seedling: Just Fine </h3></a>
 <br />
 <br />
