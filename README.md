@@ -5,7 +5,7 @@
 <img alt="Html" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
 <img alt="Html" src ="https://img.shields.io/badge/NextJs-FFFFFF.svg?&style=for-the-badge&logo=Nextdotjs&logoColor=black"/>
 <img alt="Html" src ="https://img.shields.io/badge/NestJs-E0234E.svg?&style=for-the-badge&logo=NestJs&logoColor=white"/>
-<img alt="Html" src ="https://img.shields.io/badge/IntelliJ-FFFFFF.svg?&style=for-the-badge&logo=Intellijidea&logoColor=black"/>
+<img alt="Html" src ="https://img.shields.io/badge/IntelliJ-8D5A9E.svg?&style=for-the-badge&logo=Intellijidea&logoColor=black"/>
 <br />
 <br />
 [![yoonk1228's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonk1228&show_icons=true&theme=highcontrast)](https://github.com/yoonk1228/github-readme-stats)
