@@ -6,6 +6,7 @@
 <img alt="Html" src ="https://img.shields.io/badge/IntelliJ-8D5A9E.svg?&style=for-the-badge&logo=Intellijidea&logoColor=black"/>
 <br />
 <br />
-[![yoonk1228's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonk1228&show_icons=true&theme=highcontrast)](https://github.com/yoonk1228/github-readme-stats)
+![yoonk1228's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonk1228&show_icons=true&theme=radical)
+(https://github.com/yoonk1228/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=highcontrast)](https://github.com/yoonk1228/github-readme-stats)
